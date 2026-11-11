@@ -24,10 +24,12 @@ Avaa yllä oleva latauslinkki puhelimella. Avaa ladattu **CatRescue.apk** ja val
 
 [Latest version and release notes](https://github.com/MyTribe-Tomi/cat-rescue-cozy-home/releases/latest)
 
-## A softer, clearer interface
+## Meet your cats, make their home yours
 
-Version 0.4.2 carries the welcome screen’s warm cream and sage palette through the game. Refined matte buttons, clearer selection states and a simple home navigation make the puzzles, cat book and home menus feel connected.
+Version 0.4.3 adds an illustrated cat collection, larger animated cat details and decoration cards showing the real 3D furniture. Clear rescue levels, selected tabs and equipped-item markers explain what is available. Care, daily and weekly tasks, and home goals now share the same gentle cream-and-sage style.
 
-Actual Android screenshots from the running game. The 3D puzzles and home open after **Let’s play**. The home pictured uses a separate test save with 65 rescues.
+Actual Android screenshots from the running game. Collection and home previews use a separate test save with 65 rescues; installing an update preserves your own progress.
 
-<img src="startup.png" alt="Cat Rescue: Cozy Home welcome screen" width="240"> <img src="puzzle.png" alt="Playable puzzle with an open rescue route" width="240"> <img src="home.png" alt="Cozy cat home with refined controls" width="240">
+<img src="startup.png" alt="Cat Rescue: Cozy Home welcome screen" width="240"> <img src="cat-book.png" alt="Illustrated collection of recognizable cat breeds" width="240"> <img src="decorate.png" alt="Cat trees with real 3D previews and clear purchase status" width="240">
+
+<img src="puzzle.png" alt="Playable rescue puzzle" width="240"> <img src="home.png" alt="Cozy home and its activities" width="240">
