@@ -26,7 +26,7 @@ Avaa yllä oleva latauslinkki puhelimella. Avaa ladattu **CatRescue.apk** ja val
 
 ## Meet your cats, make their home yours
 
-Version 0.4.3 adds an illustrated cat collection, larger animated cat details and decoration cards showing the real 3D furniture. Clear rescue levels, selected tabs and equipped-item markers explain what is available. Care, daily and weekly tasks, and home goals now share the same gentle cream-and-sage style.
+Version 0.4.4 brings the same gentle cream-and-sage style into the puzzles and both cat homes. Calm headers keep the important information together; a smaller home footer shows your current cat, the next breed goal and the next rescue. The illustrated cat collection, real 3D furniture previews and care/task menus complete the shared look.
 
 Actual Android screenshots from the running game. Collection and home previews use a separate test save with 65 rescues; installing an update preserves your own progress.
 
