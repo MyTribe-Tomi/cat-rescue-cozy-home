@@ -26,6 +26,8 @@ Avaa yllä oleva latauslinkki puhelimella. Avaa ladattu **CatRescue.apk** ja val
 
 ## Welcome screen
 
+Version 0.4.1 adds a warm rounded logo, a sage ribbon and a matching paw play button.
+
 Actual Android screenshot of the illustrated welcome screen. The 3D puzzles and home open after **LET’S PLAY**.
 
 <img src="startup.png" alt="Cat Rescue: Cozy Home Android welcome screen" width="360">
