@@ -24,16 +24,30 @@ Avaa yllä oleva latauslinkki puhelimella. Avaa ladattu **CatRescue.apk** ja val
 
 [Latest version and release notes](https://github.com/MyTribe-Tomi/cat-rescue-cozy-home/releases/latest)
 
-## Meet your cats, make their home yours
+## Friendship makes a home
 
-Version 0.4.5 welcomes each rescued cat with an animated portrait, gentle sparkles and a clear reward count. See when a new breed joins your family, then spend time together or choose a name and home spot. Tap the cat portrait at home to return to its details.
+Version 0.4.6 gives caring its own close-up view, an animated friendship meter and five permanent gifts for your home. Every rescued cat contributes to the same heart total.
 
-Your cats live in your home: pet, play and brush to grow friendship and complete care goals. Paw points buy decorations. Cats do not change puzzle rules. Repeat rescues never give duplicate rewards.
+| Shared hearts | Your gift |
+| --- | --- |
+| 6 | Treat time — a new way to care for your cats |
+| 12 | Woven window bed |
+| 24 | Feather play — a new playful interaction |
+| 36 | Blossom dining set |
+| 60 | Canopy cat tree |
+
+Open **Together** at home. Pet, play or brush, then follow the next gift shown below the activities. Each activity gives one heart per cat each day or after a new rescue, up to 12 hearts per cat. **Next cat** helps you visit another friend. You can keep caring for fun after an activity has earned its heart.
+
+Hearts are never spent. Earned decorations are free and work in both homes. Use them from **Friendship gifts**, or find them on the second page of their **Decorate** category. Your previous friendship and chosen furniture are preserved when updating.
+
+![A friendship gift earned in the real Android game with a separate test save](friendship.png)
+
+Rescuing still welcomes each cat with an animated portrait and a clear reward count. Choose a name and home spot, then spend time together. Your cats live in your home; they do not change puzzle rules. Repeat rescues never give duplicate rewards.
 
 ![A real Bengal rescue in the Android game, using a separate test save](rescue.png)
 
-Actual Android screenshots from the running game. Collection and home previews use a separate test save with 65 rescues; installing an update preserves your own progress.
+Actual Android screenshots from the running game. Friendship and home previews use separate test saves with 44 rescues; collection previews use 65. Installing an update preserves your own progress.
 
-<img src="startup.png" alt="Cat Rescue: Cozy Home welcome screen" width="240"> <img src="cat-book.png" alt="Illustrated collection of recognizable cat breeds" width="240"> <img src="decorate.png" alt="Cat trees with real 3D previews and clear purchase status" width="240">
+<img src="startup.png" alt="Cat Rescue: Cozy Home welcome screen" width="240"> <img src="cat-book.png" alt="Illustrated collection of recognizable cat breeds" width="240"> <img src="decorate.png" alt="Earned cat tree with a real 3D preview and free use status" width="240">
 
 <img src="puzzle.png" alt="Playable rescue puzzle" width="240"> <img src="home.png" alt="Cozy home and its activities" width="240">
