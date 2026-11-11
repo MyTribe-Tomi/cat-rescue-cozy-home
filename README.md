@@ -26,11 +26,17 @@ Avaa yllä oleva latauslinkki puhelimella. Avaa ladattu **CatRescue.apk** ja val
 
 ## Your first rescue
 
-Version 0.4.8 guides new players through their first rescue, caring for Milo and placing an earned bed at home. Slide the highlighted crate, rescue Milo, then **Pet** him. The first friendship heart unlocks the free **Welcome cuddle bed**. Choose **Use at home** to see it in your room, then continue to the next puzzle.
+Version 0.4.9 guides new players through their first rescue, caring for Milo and placing an earned bed at home. Slide the highlighted crate, rescue Milo, then **Pet** him. The first friendship heart unlocks the free **Welcome cuddle bed**. Choose **Use at home** to see it in your room, then continue to the next puzzle.
 
 You can skip the introduction or resume it after closing the game. Updating keeps your existing progress and does not force the introduction on returning players. Find the app on your phone as **CatRescue**, with its new kitten icon.
 
 ![First rescue guidance in the actual Android game](puzzle.png)
+
+## Try the tutorial again
+
+Open **Settings → Try tutorial**. Practice rescuing Milo, caring for him, and placing the free bed. **Exit practice** or **Back to my game** returns to your own game. Your cats, names, furniture, points and unfinished puzzles stay safe. Practice rewards stay in the practice. Closing the app during practice also returns to your own saved game when you reopen it.
+
+Suomeksi: **Asetukset → Kokeile opastusta**. **Poistu opastuksesta** palauttaa omaan peliin. Harjoituksen palkinnot jäävät harjoitukseen; oma eteneminen säilyy.
 
 ## Friendship makes a home
 
