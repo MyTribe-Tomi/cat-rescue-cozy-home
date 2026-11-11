@@ -26,7 +26,11 @@ Avaa yllä oleva latauslinkki puhelimella. Avaa ladattu **CatRescue.apk** ja val
 
 ## Meet your cats, make their home yours
 
-Version 0.4.4 brings the same gentle cream-and-sage style into the puzzles and both cat homes. Calm headers keep the important information together; a smaller home footer shows your current cat, the next breed goal and the next rescue. The illustrated cat collection, real 3D furniture previews and care/task menus complete the shared look.
+Version 0.4.5 welcomes each rescued cat with an animated portrait, gentle sparkles and a clear reward count. See when a new breed joins your family, then spend time together or choose a name and home spot. Tap the cat portrait at home to return to its details.
+
+Your cats live in your home: pet, play and brush to grow friendship and complete care goals. Paw points buy decorations. Cats do not change puzzle rules. Repeat rescues never give duplicate rewards.
+
+![A real Bengal rescue in the Android game, using a separate test save](rescue.png)
 
 Actual Android screenshots from the running game. Collection and home previews use a separate test save with 65 rescues; installing an update preserves your own progress.
 
