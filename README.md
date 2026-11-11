@@ -18,18 +18,27 @@ Android 8 or newer, 64-bit ARM, OpenGL ES 3. This is an Android test version, no
 
 ## Asennus suomeksi
 
-Avaa yllä oleva latauslinkki puhelimella. Avaa ladattu **CatRescue.apk** ja valitse **Päivitä**. Älä poista aiempaa Tassukoti-sovellusta: päivitys säilyttää etenemisen ja ääniasetukset. Sovellus näkyy päivityksen jälkeen nimellä **Cat Rescue: Cozy Home**. Macin ei tarvitse olla päällä eikä puhelimen tarvitse olla samassa Wi-Fi-verkossa.
+Avaa yllä oleva latauslinkki puhelimella. Avaa ladattu **CatRescue.apk** ja valitse **Päivitä**. Älä poista aiempaa Tassukoti-sovellusta: päivitys säilyttää etenemisen ja ääniasetukset. Sovellus näkyy päivityksen jälkeen nimellä **CatRescue**, uudella kissakuvakkeella. Macin ei tarvitse olla päällä eikä puhelimen tarvitse olla samassa Wi-Fi-verkossa.
 
 ## Updates
 
 [Latest version and release notes](https://github.com/MyTribe-Tomi/cat-rescue-cozy-home/releases/latest)
 
+## Your first rescue
+
+Version 0.4.8 guides new players through their first rescue, caring for Milo and placing an earned bed at home. Slide the highlighted crate, rescue Milo, then **Pet** him. The first friendship heart unlocks the free **Welcome cuddle bed**. Choose **Use at home** to see it in your room, then continue to the next puzzle.
+
+You can skip the introduction or resume it after closing the game. Updating keeps your existing progress and does not force the introduction on returning players. Find the app on your phone as **CatRescue**, with its new kitten icon.
+
+![First rescue guidance in the actual Android game](puzzle.png)
+
 ## Friendship makes a home
 
-Version 0.4.7 gives caring its own close-up view, an animated friendship meter and five permanent gifts for your home. Every rescued cat contributes to the same heart total.
+Caring has its own close-up view, an animated friendship meter and six permanent gifts for your home. Every rescued cat contributes to the same heart total.
 
 | Shared hearts | Your gift |
 | --- | --- |
+| 1 | Welcome cuddle bed — your first free gift |
 | 6 | Treat time — a new way to care for your cats |
 | 12 | Woven window bed |
 | 24 | Feather play — a new playful interaction |
@@ -50,7 +59,7 @@ Rescuing still welcomes each cat with an animated portrait and a clear reward co
 
 ![A real Bengal rescue in the Android game, using a separate test save](rescue.png)
 
-Actual Android screenshots from the running game. Friendship and home previews use separate test saves with 44 rescues; collection previews use 65. Installing an update preserves your own progress.
+Actual Android screenshots from the running game. The introduction, first gift and home pictures use a fresh, separate test save played through its first rescue and care. The collection previews use 65 rescues, and later decoration previews use 44. Installing an update preserves your own progress.
 
 <img src="startup.png" alt="Cat Rescue: Cozy Home welcome screen" width="240"> <img src="cat-book.png" alt="Illustrated collection of recognizable cat breeds" width="240"> <img src="decorate.png" alt="Earned cat tree with a real 3D preview and free use status" width="240">
 
