@@ -26,7 +26,7 @@ Avaa yllä oleva latauslinkki puhelimella. Avaa ladattu **CatRescue.apk** ja val
 
 ## Friendship makes a home
 
-Version 0.4.6 gives caring its own close-up view, an animated friendship meter and five permanent gifts for your home. Every rescued cat contributes to the same heart total.
+Version 0.4.7 gives caring its own close-up view, an animated friendship meter and five permanent gifts for your home. Every rescued cat contributes to the same heart total.
 
 | Shared hearts | Your gift |
 | --- | --- |
@@ -38,7 +38,11 @@ Version 0.4.6 gives caring its own close-up view, an animated friendship meter a
 
 Open **Together** at home. Pet, play or brush, then follow the next gift shown below the activities. Each activity gives one heart per cat each day or after a new rescue, up to 12 hearts per cat. **Next cat** helps you visit another friend. You can keep caring for fun after an activity has earned its heart.
 
-Hearts are never spent. Earned decorations are free and work in both homes. Use them from **Friendship gifts**, or find them on the second page of their **Decorate** category. Your previous friendship and chosen furniture are preserved when updating.
+Open **Help** at home for the three-step guide: rescue cats, build friendship, and furnish their home. Each card takes you to that part of the game.
+
+You can inspect every **Friendship gift**, including locked gifts. Each card explains the heart requirement, what the gift does, and where to find it later. Newly earned gifts show exactly why they unlocked. Choose **Try together** for an activity or **Use at home** for furniture; placing furniture gives a confirmation.
+
+Hearts are never spent. Earned decorations are free and work in both homes. Furniture can also be changed on the second page of its **Decorate** category. Other furniture costs paw points; **Home goals** list their own requirements. Your previous friendship and chosen furniture are preserved when updating.
 
 ![A friendship gift earned in the real Android game with a separate test save](friendship.png)
 
