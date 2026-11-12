@@ -24,9 +24,21 @@ Avaa yllä oleva latauslinkki puhelimella. Avaa ladattu **CatRescue.apk** ja val
 
 [Latest version and release notes](https://github.com/MyTribe-Tomi/cat-rescue-cozy-home/releases/latest)
 
+## Test ads and ad-free purchases — 0.4.10
+
+Open **Settings → Ad-free home**. **Preview test ad** shows a local preview. Choose **Test purchase · €4.99 → Confirm test purchase** to try permanent ad removal. No money is charged: this is the game's local test shop, not Google Play or the App Store.
+
+Try restoration with **Test options → Forget access · try restore → Restore purchases**. Your test purchase returns without buying again. It also survives closing and reopening the game. You can simulate cancellation, a pending payment, a declined payment and unavailable ads. **Reset test purchase** lets you start the purchase test again.
+
+Rare automatic local test breaks can appear after a completed rescue: never on the first visit, during the introduction or care, and only after at least five rescues, three completed puzzles and five active minutes. Caps: two breaks per visit, four per UTC day. Ad-free ownership removes them; pending purchases keep ads paused.
+
+Optional bonus previews award **test points only**, up to two bonuses per UTC day. Ad-free players claim the same test bonus without an ad. Test points do not change your game balance. Your rescued cats, furniture, rewards and progress stay safe.
+
+Suomeksi: **Asetukset → Mainokseton koti**. Kokeile testimainosta, maksutonta testiostoa ja ostoksen palautusta. Testivalikon käyttöoikeuden unohtaminen ei poista kissoja tai etenemistä. Tämä on paikallinen kokeilu: oikeita kauppoja, mainosverkkoa tai veloituksia ei ole kytketty.
+
 ## Your first rescue
 
-Version 0.4.9 guides new players through their first rescue, caring for Milo and placing an earned bed at home. Slide the highlighted crate, rescue Milo, then **Pet** him. The first friendship heart unlocks the free **Welcome cuddle bed**. Choose **Use at home** to see it in your room, then continue to the next puzzle.
+The introduction guides new players through their first rescue, caring for Milo and placing an earned bed at home. Slide the highlighted crate, rescue Milo, then **Pet** him. The first friendship heart unlocks the free **Welcome cuddle bed**. Choose **Use at home** to see it in your room, then continue to the next puzzle.
 
 You can skip the introduction or resume it after closing the game. Updating keeps your existing progress and does not force the introduction on returning players. Find the app on your phone as **CatRescue**, with its new kitten icon.
 
